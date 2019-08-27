@@ -1,0 +1,14 @@
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.csprojAssemblyReference.cache
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.csproj.CoreCompileInputs.cache
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.RazorAssemblyInfo.cache
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.RazorAssemblyInfo.cs
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.AssemblyInfoInputs.cache
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.AssemblyInfo.cs
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/bin/Debug/netcoreapp2.2/ItemsAPI.deps.json
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/bin/Debug/netcoreapp2.2/ItemsAPI.runtimeconfig.json
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/bin/Debug/netcoreapp2.2/ItemsAPI.runtimeconfig.dev.json
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/bin/Debug/netcoreapp2.2/ItemsAPI.dll
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/bin/Debug/netcoreapp2.2/ItemsAPI.pdb
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.RazorTargetAssemblyInfo.cache
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.dll
+/Users/kennethreilly/source/public/dotnet-core-example/ItemsAPI/obj/Debug/netcoreapp2.2/ItemsAPI.pdb
