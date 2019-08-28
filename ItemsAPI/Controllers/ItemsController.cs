@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text.Encodings.Web;
+﻿using System.Collections.Generic;
 using System.Linq;
-using Newtonsoft.Json;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ItemsAPI.Controllers
@@ -52,10 +48,10 @@ namespace ItemsAPI.Controllers
         }
 
         // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpDelete("{index}")]
+        public void Delete(int index)
         {
-            ItemsController.items.RemoveAt(id);
+            ItemsController.items.RemoveAt(index);
         }
     }
 }
